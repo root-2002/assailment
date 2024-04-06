@@ -19,31 +19,4 @@ To download and run the project, follow these steps:
    cd assailment
    ```
 
-3. [Add any additional installation steps here, such as installing dependencies or configuring the environment.]
 
-## Usage
-
-To use the login form:
-
-1. [Provide instructions on how to run the application.]
-
-2. [Explain how users can interact with the login form, including entering credentials and handling responses.]
-
-3. [Include any other relevant usage information.]
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to Assailment, please follow these guidelines:
-
-- Fork the repository and clone it locally.
-- Create a new branch for your feature or bug fix.
-- Make your changes and test thoroughly.
-- Submit a pull request with a clear description of your changes.
-
-If you encounter any bugs or have suggestions for improvements, please [open an issue](https://github.com/root-2002/assailment/issues).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
