@@ -1,5 +1,3 @@
-To improve the README file for your demo project, consider including the following sections:
-
 1. **Project Title and Description**: Clearly state the title of your project and provide a brief description of its purpose and functionality.
 
 2. **Installation Instructions**: Provide step-by-step instructions on how to download, install, and run the project. Include any dependencies that need to be installed and specify the required environment (e.g., Java version).
