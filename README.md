@@ -1,16 +1,3 @@
-1. **Project Title and Description**: Clearly state the title of your project and provide a brief description of its purpose and functionality.
-
-2. **Installation Instructions**: Provide step-by-step instructions on how to download, install, and run the project. Include any dependencies that need to be installed and specify the required environment (e.g., Java version).
-
-3. **Usage**: Explain how to use the project, including any commands or configurations that users need to be aware of. Provide examples if applicable.
-
-4. **Contributing**: Encourage others to contribute to the project by providing guidelines for how they can do so. Include information on how to report bugs, suggest improvements, and submit pull requests.
-
-5. **License**: Specify the license under which the project is distributed. This informs users about how they can use, modify, and distribute the code.
-
-Here's an example README template:
-
----
 
 # Assailment - Java Login Form Demo Project
 
