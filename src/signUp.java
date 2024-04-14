@@ -37,5 +37,14 @@ public class signUp {
                     outputLabel);
             validator.validateSignUp();
         });
+        clearAllButton.addActionListener(e->{
+            firstName.setText("");
+            LastName.setText("");
+            phone.setText("");
+            email.setText("");
+            passwordField1.setText("");
+            passwordField2.setText("");
+            outputLabel.setText("");
+        });
     }
 }
